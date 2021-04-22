@@ -2,7 +2,7 @@
 
 Databinding is a support library provided by android to bind your UI components directly to the data source like ViewModel. In this sample project you can learn RecyclerView Binding with MVVM + Clean Architecture pattern.
 
-https://github.com/Mindinventory/Android-Data-Binding/blob/master/screenshot.png
+![alt tag](https://github.com/Mindinventory/Android-Data-Binding/blob/master/screenshot.png)
 
 # For more understanding you can read this blog:
 
