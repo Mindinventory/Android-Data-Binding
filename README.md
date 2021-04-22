@@ -8,6 +8,7 @@ https://medium.com/@milan.vadhel/data-binding-in-android-9ed92a68f9f6
 
 # LICENSE!
 
+https://github.com/Mindinventory/Android-Data-Binding/blob/master/LICENSE
 
 # Let us know!
 
