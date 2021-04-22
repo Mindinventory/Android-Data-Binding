@@ -1,4 +1,4 @@
 # Data Binding in Android
 
-Hello Everyone here you can see how to enable data binding for recyclerview android.
+Hello Everyone here you can learn how to enable data binding for recyclerview android.
 
