@@ -6,7 +6,7 @@ Databinding is a support library provided by android to bind your UI components 
 
 # For more understanding you can read this blog:
 
-https://medium.com/@milan.vadhel/data-binding-in-android-9ed92a68f9f6
+https://medium.com/mindful-engineering/data-binding-in-android-9ed92a68f9f6
 
 # LICENSE!
 
